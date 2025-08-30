@@ -1,2 +1,2 @@
-# Code
+# Pattern printing
 Coding questions
